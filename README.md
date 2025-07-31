@@ -34,7 +34,6 @@ This repository contains an interactive Sales Dashboard built with Microsoft Exc
 
 - `data/` 📂 – Raw sales data files  
 - `dashboard/` 📂 – The main dashboard Excel file  
-- `images/` 🖼️ – Screenshots and demo images  
 - `README.md` 📄 – This file!  
 
 Enjoy exploring your Sales Dashboard! 🚀📊
